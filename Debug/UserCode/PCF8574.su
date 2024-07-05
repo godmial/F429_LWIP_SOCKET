@@ -1,0 +1,2 @@
+../UserCode/PCF8574.c:36:6:PCF8574_WriteBit	32	static
+../UserCode/PCF8574.c:49:9:PCF8574_ReadBit	32	static

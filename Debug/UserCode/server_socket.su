@@ -1,0 +1,2 @@
+../UserCode/server_socket.c:14:13:server_socket_thread	88	static
+../UserCode/server_socket.c:82:6:server_socket_init	16	static

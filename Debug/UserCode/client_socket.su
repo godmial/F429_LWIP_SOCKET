@@ -1,0 +1,2 @@
+../UserCode/client_socket.c:13:13:client_socket_thread	80	static
+../UserCode/client_socket.c:50:6:client_socket_init	16	static
